@@ -1,32 +1,33 @@
-<h1>Hi, I'm Rafly! <br/><a href="https://www.linkedin.com/in/raflydwipriyono/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Rafly Dwi Priyono! <br/> Junior DevOps & Cloud Engineer</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 DevOps Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/raflydwipriyono/exprojectpage)
+- <b>Automate deploying to AWS using Terraform with GitLab CICD pipeline</b>
+  - [Repo](https://github.com/raflydwipriyono/awsterraformgitlab) [Watch video here](https://www.youtube.com/watch?v=LNvAwRE15Mo)
 
 <h2>📄 Certifications</h2>
 
-- <b>[xyz certification](https://github.com/raflydwipriyono/inserturlhere)</b>
+- <b>[AWS Certified Cloud Practitioner](https://www.credly.com/badges/e9376272-53db-47ab-817d-6c009132ca8e/linked_in_profile)</b>
+- <b>[HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/0bcef85f-d633-48bd-921f-01150813abd3/linked_in_profile)</b>
+- <b>[AWS re/Start Graduate](https://www.credly.com/badges/312c7b92-5648-4683-9ddd-6383377a91af/linked_in_profile)</b>
+- <b>[Google Cybersecurity Certificate](https://www.credly.com/badges/1550f43a-631c-46a7-bc2d-9789e9be2929/linked_in_profile)</b>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 <h2>- 🔭 I’m currently working on ...</h2>
+- Python Microservices video to audio converter app | Kubernetes Microservices Deployment
+
 <h2>- 🌱 I’m currently learning ...</h2>
+<p>
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" >
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/helm.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/prometheus.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/grafana.svg" />
+  <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sonarqube.svg" />
+</p>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/raflydwipriyono/]
