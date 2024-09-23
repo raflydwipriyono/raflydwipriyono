@@ -4,7 +4,9 @@
 
 - <b>Automate deploying to AWS using Terraform with GitLab CICD pipeline</b>
   - [Repo](https://github.com/raflydwipriyono/awsterraformgitlab) [Watch video here](https://www.youtube.com/watch?v=LNvAwRE15Mo)
-
+- <b>Video to Audio Python Microservices App on Kubernetes (AWS EKS)</b>
+  - [Repo](https://github.com/raflydwipriyono/microservices-video2audio) [Watch video here](https://www.youtube.com/watch?v=7rKQtewiJCw)
+    
 <h2>📄 Certifications</h2>
 
 - <b>[AWS Certified Cloud Practitioner](https://www.credly.com/badges/e9376272-53db-47ab-817d-6c009132ca8e/linked_in_profile)</b>
@@ -13,7 +15,7 @@
 - <b>[Google Cybersecurity Certificate](https://www.credly.com/badges/1550f43a-631c-46a7-bc2d-9789e9be2929/linked_in_profile)</b>
 
 <h2>- 🔭 I’m currently working on ...</h2>
-- Python Microservices video to audio converter app | Kubernetes Microservices Deployment
+- DevSecOps Pipeline Project: Deploy Netflix Clone on Kubernetes
 
 <h2>- 🌱 I’m currently learning ...</h2>
 <p>
